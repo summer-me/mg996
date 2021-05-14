@@ -2,8 +2,8 @@
 
 int main()
 {
-    int i = 0;
-    printf("%d", i); 
+    int i = 1;
+    printf("%d\n", i); 
     printf("hello jenkins!!!");
 
     return 0;
